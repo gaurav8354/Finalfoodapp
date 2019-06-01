@@ -184,7 +184,7 @@ stringBuilders.append("<!doctype html>\n" +
         "                    <table>\n" +
         "                        <tr>\n" +
         "                            <td class=\"title\">\n" +
-        "                                <img src=\"https://www.techzooper.com/paytm/psitlogo.png\" style=\"width:100%; max-width:300px;\">\n" +
+        "                                <img src=\"https://firebasestorage.googleapis.com/v0/b/finalfoodapp.appspot.com/o/logo.png?alt=media&token=fa5d7936-1932-47fb-b322-0230323a0bc1\" style=\"width:100%; max-width:300px;\">\n" +
         "                            </td>\n" +
         "                            \n" +
         "                            <td>\n"+orderid+"<br>"+date+"</td>\n" +
